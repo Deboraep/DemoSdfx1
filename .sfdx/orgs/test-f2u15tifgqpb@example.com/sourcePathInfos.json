@@ -465,14 +465,14 @@
     [
         "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\flexipages",
         {
-            "state": "u",
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\flexipages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1528277490025,
             "changeTime": 1528277490025,
-            "contentHash": "d3a57309573ba8592f28eb3f3f7102e81c47cdf0"
+            "contentHash": "d3a57309573ba8592f28eb3f3f7102e81c47cdf0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -712,16 +712,15 @@
     [
         "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.css",
         {
+            "state": "u",
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.css",
             "isDirectory": false,
-            "size": 1298,
-            "modifiedTime": 1528276664412,
-            "changeTime": 1528276664412,
-            "contentHash": "9d4109cc3aae80ee9285d82fd779c81adf4f07a9",
             "isMetadataFile": false,
-            "state": "u",
+            "size": 1298,
+            "modifiedTime": 1528277881721,
+            "changeTime": 1528277881721,
             "isWorkspace": false,
-            "isArtifactRoot": false
+            "contentHash": "1d500c92d336bc81db360ef4db37d95fb2cbca99"
         }
     ],
     [
@@ -1087,14 +1086,14 @@
     [
         "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6571,
             "modifiedTime": 1528277490026,
             "changeTime": 1528277490026,
-            "contentHash": "325dff9e77a6627e02debca9d1bffef6b0a9992f"
+            "contentHash": "325dff9e77a6627e02debca9d1bffef6b0a9992f",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ]
 ]
