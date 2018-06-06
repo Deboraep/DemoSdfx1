@@ -1,0 +1,377 @@
+[
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528275243865,
+            "changeTime": 1528275243865,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528275243866,
+            "changeTime": 1528275243866,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528275243895,
+            "changeTime": 1528275243895,
+            "contentHash": "2c2a89c1c45d2977cfce538e475902f5520f4382",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528275615006,
+            "changeTime": 1528275615006,
+            "contentHash": "db33aa3e15f423d0cf169d11c3077ed1906d830d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528275287971,
+            "changeTime": 1528275287971,
+            "contentHash": "43ddf5730caa5f429a02f9794295fa86dc177f7a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1528275287971,
+            "changeTime": 1528275287971,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 193,
+            "modifiedTime": 1528275312094,
+            "changeTime": 1528275312094,
+            "contentHash": "37d0de57822d8df34c1c9fa6810e941885fb540d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 236,
+            "modifiedTime": 1528275287965,
+            "changeTime": 1528275287965,
+            "contentHash": "e1e968b3b1241b0b99f46111ddfbaf9b8727535e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1528275287967,
+            "changeTime": 1528275287967,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1528275287972,
+            "changeTime": 1528275287972,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo\\Demo.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1528275287970,
+            "changeTime": 1528275287970,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1528275287966,
+            "changeTime": 1528275287966,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1528275287967,
+            "changeTime": 1528275287967,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo\\DemoRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1528275287969,
+            "changeTime": 1528275287969,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo_Dep",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo_Dep",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528275615059,
+            "changeTime": 1528275615059,
+            "contentHash": "33c6d75f1c4184f7c6b0a3251aaad992d35d0a0c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo_Dep\\Demo_Dep.auradoc",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo_Dep\\Demo_Dep.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 209,
+            "modifiedTime": 1528275615057,
+            "changeTime": 1528275615057,
+            "contentHash": "fd7f560d82324d6a8255c8c6ebf60698f5f93f1e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo_Dep\\Demo_Dep.cmp",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo_Dep\\Demo_Dep.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 37,
+            "modifiedTime": 1528275615006,
+            "changeTime": 1528275615006,
+            "contentHash": "bac5bb79bbfe029fc6eb7729b2e53aee4b008e71",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo_Dep\\Demo_Dep.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo_Dep\\Demo_Dep.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 240,
+            "modifiedTime": 1528275615042,
+            "changeTime": 1528275615042,
+            "contentHash": "30dae05486e4882b3ef0595bdebced90ada79472",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo_Dep\\Demo_Dep.css",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo_Dep\\Demo_Dep.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 10,
+            "modifiedTime": 1528275615049,
+            "changeTime": 1528275615049,
+            "contentHash": "44063bf628f237edaa1f3f358714dd40ac321703",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo_Dep\\Demo_Dep.design",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo_Dep\\Demo_Dep.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 40,
+            "modifiedTime": 1528275615060,
+            "changeTime": 1528275615060,
+            "contentHash": "c5618bc7228e29c74b07b78fd040e05ae8a541ec",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo_Dep\\Demo_Dep.svg",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo_Dep\\Demo_Dep.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 661,
+            "modifiedTime": 1528275615054,
+            "changeTime": 1528275615054,
+            "contentHash": "721eeffe17135535c3834b77f1e1968fe6360ed4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo_Dep\\Demo_DepController.js",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo_Dep\\Demo_DepController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 65,
+            "modifiedTime": 1528275615045,
+            "changeTime": 1528275615045,
+            "contentHash": "194250e0c86b1981f8d4e7246be6b32954c6deaf",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo_Dep\\Demo_DepHelper.js",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo_Dep\\Demo_DepHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 45,
+            "modifiedTime": 1528275615047,
+            "changeTime": 1528275615047,
+            "contentHash": "fa35ebecd73c127729bf311a95b613f711a6f10b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo_Dep\\Demo_DepRenderer.js",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\aura\\Demo_Dep\\Demo_DepRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1528275615052,
+            "changeTime": 1528275615052,
+            "contentHash": "8b79b016f08440c9b2f7d706a6d21229c854540b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528275338002,
+            "changeTime": 1528275338002,
+            "contentHash": "3d48858a737ab8c39315eaf1c5149980d1a9cdae",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
