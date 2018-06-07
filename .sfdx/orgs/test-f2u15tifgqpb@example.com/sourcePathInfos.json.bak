@@ -360,15 +360,15 @@
     [
         "D:\\Latihan\\BelajarSfdx1\\Demo",
         {
+            "state": "u",
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo",
             "isDirectory": true,
-            "size": 0,
-            "modifiedTime": 1528276641796,
-            "changeTime": 1528276641796,
-            "contentHash": "8bfc6131607f24313b4dc7415efd0b72eeb1f8d5",
             "isMetadataFile": false,
-            "state": "u",
-            "isWorkspace": true
+            "size": 0,
+            "modifiedTime": 1528340305558,
+            "changeTime": 1528340305558,
+            "isWorkspace": true,
+            "contentHash": "e6ce3fd1cdc13016f65a1b750288212a999c5dc0"
         }
     ],
     [
@@ -465,14 +465,14 @@
     [
         "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\flexipages",
         {
-            "state": "u",
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\flexipages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1528277490025,
             "changeTime": 1528277490025,
-            "contentHash": "d3a57309573ba8592f28eb3f3f7102e81c47cdf0"
+            "contentHash": "d3a57309573ba8592f28eb3f3f7102e81c47cdf0",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -520,7 +520,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1528276664408,
+            "modifiedTime": 1528283237893,
             "changeTime": 1528276664408,
             "contentHash": "2f41b038d2435dfc98a2e74fe75379ad5734d2c3",
             "isMetadataFile": false,
@@ -535,7 +535,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1528276664408,
+            "modifiedTime": 1528283237893,
             "changeTime": 1528276664408,
             "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
             "isMetadataFile": false,
@@ -550,7 +550,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1528276664426,
+            "modifiedTime": 1528283237911,
             "changeTime": 1528276664426,
             "contentHash": "23dc5dce7c50ee5d687a95170c9787e18f8751d2",
             "isMetadataFile": false,
@@ -565,7 +565,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\aura",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1528276664418,
+            "modifiedTime": 1528283237904,
             "changeTime": 1528276664418,
             "contentHash": "2f23212b50a83c6f1bd3b906c82b2cbaaceee0ff",
             "isMetadataFile": false,
@@ -580,7 +580,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\aura\\dataRetrieved",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1528276664419,
+            "modifiedTime": 1528283237905,
             "changeTime": 1528276664419,
             "contentHash": "b199bee8ee4e4bc30bb7c1f8f8a231b5e91844e1",
             "isMetadataFile": false,
@@ -595,7 +595,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\aura\\dataRetrieved\\dataRetrieved.evt",
             "isDirectory": false,
             "size": 156,
-            "modifiedTime": 1528276664419,
+            "modifiedTime": 1528283237904,
             "changeTime": 1528276664419,
             "contentHash": "fc2433a634f223435a01da80934238039f724b21",
             "isMetadataFile": false,
@@ -610,7 +610,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\aura\\dataRetrieved\\dataRetrieved.evt-meta.xml",
             "isDirectory": false,
             "size": 219,
-            "modifiedTime": 1528276664419,
+            "modifiedTime": 1528283237905,
             "changeTime": 1528276664419,
             "contentHash": "1f2b0cd4e0e6ddfc20d058aa07bf3cfea7480835",
             "isMetadataFile": true,
@@ -625,7 +625,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\aura\\Storage",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1528276664410,
+            "modifiedTime": 1528283237895,
             "changeTime": 1528276664410,
             "contentHash": "2a5d896e5ac922b48d10f041aa82a83416412050",
             "isMetadataFile": false,
@@ -640,7 +640,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\aura\\Storage\\Storage.cmp",
             "isDirectory": false,
             "size": 917,
-            "modifiedTime": 1528276664409,
+            "modifiedTime": 1528283237895,
             "changeTime": 1528276664409,
             "contentHash": "6aabf819a1e1b796bfcdd5602e5d72994b00ac1c",
             "isMetadataFile": false,
@@ -655,7 +655,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\aura\\Storage\\Storage.cmp-meta.xml",
             "isDirectory": false,
             "size": 216,
-            "modifiedTime": 1528276664410,
+            "modifiedTime": 1528283237895,
             "changeTime": 1528276664410,
             "contentHash": "67ed1f5733b1ce65f40dc2cd4dc35a8bd63a6b3c",
             "isMetadataFile": true,
@@ -670,7 +670,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1528276664415,
+            "modifiedTime": 1528283237901,
             "changeTime": 1528276664415,
             "contentHash": "55427221cf793ceb19d5da9d90a7d8a473859018",
             "isMetadataFile": false,
@@ -685,7 +685,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.cmp",
             "isDirectory": false,
             "size": 5483,
-            "modifiedTime": 1528276664411,
+            "modifiedTime": 1528283237896,
             "changeTime": 1528276664411,
             "contentHash": "2e432c4f45ae25d2ffe0f8550edaa136ce33cd72",
             "isMetadataFile": false,
@@ -700,7 +700,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.cmp-meta.xml",
             "isDirectory": false,
             "size": 219,
-            "modifiedTime": 1528276664411,
+            "modifiedTime": 1528283237897,
             "changeTime": 1528276664411,
             "contentHash": "1f2b0cd4e0e6ddfc20d058aa07bf3cfea7480835",
             "isMetadataFile": true,
@@ -715,13 +715,12 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.css",
             "isDirectory": false,
             "size": 1298,
-            "modifiedTime": 1528276664412,
-            "changeTime": 1528276664412,
-            "contentHash": "9d4109cc3aae80ee9285d82fd779c81adf4f07a9",
+            "modifiedTime": 1528283237897,
+            "changeTime": 1528277881721,
+            "contentHash": "1d500c92d336bc81db360ef4db37d95fb2cbca99",
             "isMetadataFile": false,
             "state": "u",
-            "isWorkspace": false,
-            "isArtifactRoot": false
+            "isWorkspace": false
         }
     ],
     [
@@ -730,7 +729,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.design",
             "isDirectory": false,
             "size": 346,
-            "modifiedTime": 1528276664412,
+            "modifiedTime": 1528283237898,
             "changeTime": 1528276664412,
             "contentHash": "1ab870c096696a3c08082e2416ed2b2f4ebbf4d1",
             "isMetadataFile": false,
@@ -745,7 +744,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemo.svg",
             "isDirectory": false,
             "size": 1021,
-            "modifiedTime": 1528276664413,
+            "modifiedTime": 1528283237899,
             "changeTime": 1528276664413,
             "contentHash": "cd1ea0dfa3cf906fdec342699622ed85ed00d1af",
             "isMetadataFile": false,
@@ -760,7 +759,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoController.js",
             "isDirectory": false,
             "size": 1085,
-            "modifiedTime": 1528276664414,
+            "modifiedTime": 1528283237900,
             "changeTime": 1528276664414,
             "contentHash": "bf9279ede7dc946bed67264287c14d6108974cf7",
             "isMetadataFile": false,
@@ -775,7 +774,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoHelper.js",
             "isDirectory": false,
             "size": 5924,
-            "modifiedTime": 1528276664415,
+            "modifiedTime": 1528283237900,
             "changeTime": 1528276664415,
             "contentHash": "84ba6ce9a3e20fbcb0e9f55545eb1e6d13bee40d",
             "isMetadataFile": false,
@@ -790,7 +789,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\aura\\YelpDemo\\YelpDemoRenderer.js",
             "isDirectory": false,
             "size": 738,
-            "modifiedTime": 1528276664415,
+            "modifiedTime": 1528283237901,
             "changeTime": 1528276664415,
             "contentHash": "d665b7d29b11f2eb8c02b6373c06e47346705312",
             "isMetadataFile": false,
@@ -805,7 +804,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\aura\\YelpService",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1528276664418,
+            "modifiedTime": 1528283237904,
             "changeTime": 1528276664418,
             "contentHash": "d47e5e9de70c9305eaef7db09904879e88538027",
             "isMetadataFile": false,
@@ -820,7 +819,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpService.cmp",
             "isDirectory": false,
             "size": 832,
-            "modifiedTime": 1528276664416,
+            "modifiedTime": 1528283237902,
             "changeTime": 1528276664416,
             "contentHash": "fae52a427064a301ace9fc689e9cf859b1de43e6",
             "isMetadataFile": false,
@@ -835,7 +834,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpService.cmp-meta.xml",
             "isDirectory": false,
             "size": 219,
-            "modifiedTime": 1528276664417,
+            "modifiedTime": 1528283237902,
             "changeTime": 1528276664417,
             "contentHash": "20374ea20c0da58fb533b70b688c82384c590c03",
             "isMetadataFile": true,
@@ -850,7 +849,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpServiceController.js",
             "isDirectory": false,
             "size": 213,
-            "modifiedTime": 1528276664417,
+            "modifiedTime": 1528283237903,
             "changeTime": 1528276664417,
             "contentHash": "82df0e7b416e9a9a797701c72b510d71d8909b80",
             "isMetadataFile": false,
@@ -865,7 +864,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\aura\\YelpService\\YelpServiceHelper.js",
             "isDirectory": false,
             "size": 2042,
-            "modifiedTime": 1528276664418,
+            "modifiedTime": 1528283237904,
             "changeTime": 1528276664418,
             "contentHash": "74d2133713841f14daa33d3c87fdeb29e09b4ca3",
             "isMetadataFile": false,
@@ -880,7 +879,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\classes",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1528276664425,
+            "modifiedTime": 1528283237910,
             "changeTime": 1528276664425,
             "contentHash": "413cc000459baf4a60b8da8b6e618c128d015725",
             "isMetadataFile": false,
@@ -895,7 +894,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\classes\\MockHttpResponseGenerator.cls",
             "isDirectory": false,
             "size": 672,
-            "modifiedTime": 1528276664420,
+            "modifiedTime": 1528283237906,
             "changeTime": 1528276664420,
             "contentHash": "de1151d4a6d414d95b7bea943be4d2406363ff54",
             "isMetadataFile": false,
@@ -910,7 +909,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\classes\\MockHttpResponseGenerator.cls-meta.xml",
             "isDirectory": false,
             "size": 179,
-            "modifiedTime": 1528276664420,
+            "modifiedTime": 1528283237906,
             "changeTime": 1528276664420,
             "contentHash": "9a94b82242fa2049cf50679a6efc2c1a478fe364",
             "isMetadataFile": true,
@@ -925,7 +924,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\classes\\TestInTheNeighborhoodController.cls",
             "isDirectory": false,
             "size": 829,
-            "modifiedTime": 1528276664421,
+            "modifiedTime": 1528283237907,
             "changeTime": 1528276664421,
             "contentHash": "854a69c44213389336401c045649d80bd0cb59c4",
             "isMetadataFile": false,
@@ -940,7 +939,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\classes\\TestInTheNeighborhoodController.cls-meta.xml",
             "isDirectory": false,
             "size": 179,
-            "modifiedTime": 1528276664422,
+            "modifiedTime": 1528283237908,
             "changeTime": 1528276664422,
             "contentHash": "9a94b82242fa2049cf50679a6efc2c1a478fe364",
             "isMetadataFile": true,
@@ -955,7 +954,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\classes\\YelpDemoController.cls",
             "isDirectory": false,
             "size": 1061,
-            "modifiedTime": 1528276664423,
+            "modifiedTime": 1528283237908,
             "changeTime": 1528276664423,
             "contentHash": "b948c3afe75b12d147b48bd2e22496000622a4ed",
             "isMetadataFile": false,
@@ -970,7 +969,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\classes\\YelpDemoController.cls-meta.xml",
             "isDirectory": false,
             "size": 179,
-            "modifiedTime": 1528276664424,
+            "modifiedTime": 1528283237909,
             "changeTime": 1528276664424,
             "contentHash": "9a94b82242fa2049cf50679a6efc2c1a478fe364",
             "isMetadataFile": true,
@@ -985,7 +984,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\classes\\YelpServiceController.cls",
             "isDirectory": false,
             "size": 1143,
-            "modifiedTime": 1528276664425,
+            "modifiedTime": 1528283237910,
             "changeTime": 1528276664425,
             "contentHash": "648d69af87ee21de3e02c7927702ad1c425a60c5",
             "isMetadataFile": false,
@@ -1000,7 +999,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\classes\\YelpServiceController.cls-meta.xml",
             "isDirectory": false,
             "size": 179,
-            "modifiedTime": 1528276664425,
+            "modifiedTime": 1528283237910,
             "changeTime": 1528276664425,
             "contentHash": "9a94b82242fa2049cf50679a6efc2c1a478fe364",
             "isMetadataFile": true,
@@ -1015,7 +1014,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\remoteSiteSettings",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1528276664426,
+            "modifiedTime": 1528283237911,
             "changeTime": 1528276664426,
             "contentHash": "953a648bdddc5b63ac59255b53b662d2e89d3a89",
             "isMetadataFile": false,
@@ -1030,7 +1029,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\remoteSiteSettings\\YelpApp.remoteSite-meta.xml",
             "isDirectory": false,
             "size": 274,
-            "modifiedTime": 1528276664426,
+            "modifiedTime": 1528283237911,
             "changeTime": 1528276664426,
             "contentHash": "a0ad435300a759ecf99cdd0add238f95edc395e4",
             "isMetadataFile": true,
@@ -1045,7 +1044,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\staticresources",
             "isDirectory": true,
             "size": 0,
-            "modifiedTime": 1528276664428,
+            "modifiedTime": 1528283237913,
             "changeTime": 1528276664428,
             "contentHash": "3f1f5b622ae048af33321106049a3d2e9c6f32fa",
             "isMetadataFile": false,
@@ -1060,7 +1059,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\staticresources\\leaflet.resource",
             "isDirectory": false,
             "size": 242945,
-            "modifiedTime": 1528276664428,
+            "modifiedTime": 1528283237913,
             "changeTime": 1528276664428,
             "contentHash": "5575820f24c0d7a9a1ad445847ba728dde6be3bc",
             "isMetadataFile": false,
@@ -1075,7 +1074,7 @@
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\YelpDemo\\main\\default\\staticresources\\leaflet.resource-meta.xml",
             "isDirectory": false,
             "size": 215,
-            "modifiedTime": 1528276664428,
+            "modifiedTime": 1528283237913,
             "changeTime": 1528276664428,
             "contentHash": "aa85ab19e7ac0f4c7ee86646e20a759ac6219897",
             "isMetadataFile": true,
@@ -1087,14 +1086,344 @@
     [
         "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\force-app\\main\\default\\flexipages\\Account_Record_Page.flexipage-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 6571,
             "modifiedTime": 1528277490026,
             "changeTime": 1528277490026,
-            "contentHash": "325dff9e77a6627e02debca9d1bffef6b0a9992f"
+            "contentHash": "325dff9e77a6627e02debca9d1bffef6b0a9992f",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528340397031,
+            "changeTime": 1528340397031,
+            "contentHash": "2f41b038d2435dfc98a2e74fe75379ad5734d2c3",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528340397031,
+            "changeTime": 1528340397031,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528340397038,
+            "changeTime": 1528340397038,
+            "contentHash": "a81adfb38730e0617c926d6068400ef4b82f1bf2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\applications",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528340397032,
+            "changeTime": 1528340397032,
+            "contentHash": "773f904d4fd3e441ea0f66dde54c9ad8697bd065",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\applications\\standard__LightningSales.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 935,
+            "modifiedTime": 1528340397032,
+            "changeTime": 1528340397032,
+            "contentHash": "fd9b3d62182ac5019ab3e40dc5771da8a8ceec46",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\aura",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528340397032,
+            "changeTime": 1528340397032,
+            "contentHash": "9ab91c446babb6aa3be984a2eee6cd92ba514918",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\aura\\Demo_Sfdx",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\aura\\Demo_Sfdx",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528340397036,
+            "changeTime": 1528340397036,
+            "contentHash": "9708f6fa24df7cbcbe7485e5d14755e375560cba",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\aura\\Demo_Sfdx\\Demo_Sfdx.auradoc",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\aura\\Demo_Sfdx\\Demo_Sfdx.auradoc",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 214,
+            "modifiedTime": 1528340397033,
+            "changeTime": 1528340397033,
+            "contentHash": "407a14e54b2a31f34bdc3d6864f898b846cd6f14",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\aura\\Demo_Sfdx\\Demo_Sfdx.cmp",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\aura\\Demo_Sfdx\\Demo_Sfdx.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 201,
+            "modifiedTime": 1528340397033,
+            "changeTime": 1528340397033,
+            "contentHash": "58d7d0772d0a9716ad7e2753e56d050e5647a188",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\aura\\Demo_Sfdx\\Demo_Sfdx.cmp-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\aura\\Demo_Sfdx\\Demo_Sfdx.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 246,
+            "modifiedTime": 1528340397034,
+            "changeTime": 1528340397034,
+            "contentHash": "84dad8b3d1020cc76a4b55f95da4a8d07ba3e8fd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\aura\\Demo_Sfdx\\Demo_Sfdx.css",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\aura\\Demo_Sfdx\\Demo_Sfdx.css",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 12,
+            "modifiedTime": 1528340397034,
+            "changeTime": 1528340397034,
+            "contentHash": "62fce833b8cbf54a137353694e5e7fb5183a3aa5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\aura\\Demo_Sfdx\\Demo_Sfdx.design",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\aura\\Demo_Sfdx\\Demo_Sfdx.design",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 42,
+            "modifiedTime": 1528340397034,
+            "changeTime": 1528340397034,
+            "contentHash": "6ea7d49903f517fcd762a13181f931479bb35c24",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\aura\\Demo_Sfdx\\Demo_Sfdx.svg",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\aura\\Demo_Sfdx\\Demo_Sfdx.svg",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 667,
+            "modifiedTime": 1528340397035,
+            "changeTime": 1528340397035,
+            "contentHash": "fe7fd10b3d5c910463a4cbaaa998b5e75bd6ca8a",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\aura\\Demo_Sfdx\\Demo_SfdxController.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\aura\\Demo_Sfdx\\Demo_SfdxController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 70,
+            "modifiedTime": 1528340397035,
+            "changeTime": 1528340397035,
+            "contentHash": "71e888bad43bee50e7680e4cdabf4d0ffc6e5de6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\aura\\Demo_Sfdx\\Demo_SfdxHelper.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\aura\\Demo_Sfdx\\Demo_SfdxHelper.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 50,
+            "modifiedTime": 1528340397036,
+            "changeTime": 1528340397036,
+            "contentHash": "918895777e9adcce0220bbeb98deb77808a77b47",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\aura\\Demo_Sfdx\\Demo_SfdxRenderer.js",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\aura\\Demo_Sfdx\\Demo_SfdxRenderer.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 55,
+            "modifiedTime": 1528340397036,
+            "changeTime": 1528340397036,
+            "contentHash": "3ef474273bcb41f3564687a65b0357460ae004ed",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\flexipages",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528340397037,
+            "changeTime": 1528340397037,
+            "contentHash": "c3fea6e7b80d973efafe3aaf16be42aed8254ea0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\flexipages\\DemoSfdx.flexipage-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\flexipages\\DemoSfdx.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 729,
+            "modifiedTime": 1528340397037,
+            "changeTime": 1528340397037,
+            "contentHash": "74d6bb09696b5bfaf9a6a60864bcaafe5b71d31e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528340743318,
+            "changeTime": 1528340743318,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18285,
+            "modifiedTime": 1528340397037,
+            "changeTime": 1528340397037,
+            "contentHash": "69aab1c8d87b2e0c3cf31595a73bfd7da170db8b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1528340397038,
+            "changeTime": 1528340397038,
+            "contentHash": "1553a6ba02c7f8f7058f77f2476803f5ba1cf2b8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\tabs\\DemoSfdx.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Latihan\\BelajarSfdx1\\Demo\\DemoSfdxDep\\main\\default\\tabs\\DemoSfdx.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 319,
+            "modifiedTime": 1528340397038,
+            "changeTime": 1528340397038,
+            "contentHash": "d32041b4d7f11a927fb21a5bf6e6006a5dfc8f27",
+            "isWorkspace": false,
+            "isArtifactRoot": false
         }
     ]
 ]

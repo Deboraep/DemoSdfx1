@@ -7,6 +7,14 @@
     {
       "path": "YelpDemo",
       "default": false
+    },
+    {
+      "path": "DemoSfdxDep",
+      "default": false
+    },
+    {
+      "path": "Yelp-Demo",
+      "default": false
     }
   ],
   "namespace": "",
